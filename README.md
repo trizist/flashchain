@@ -29,7 +29,7 @@ By optimizing I/O through tiling and recomputation, and embedding attention kern
 
 ## 📄 Paper  
 Read the full technical paper:  
-**[FlashChain: IO-Aware Attention for Scalable, Decentralized AI in Web3 Systems](FlashChain_Umair_Siddiquie.pdf)**  
+**[FlashChain: IO-Aware Attention for Scalable, Decentralized AI in Web3 Systems](FlashChain_IO-Aware_Attention_for_Scalable_Decentralized_AI_in_Web3_Systems.tex)**  
 *By Umair Abbas Siddiquie*
 
 ## 🧪 Getting Started
